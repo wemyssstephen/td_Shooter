@@ -1,0 +1,37 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "first_attempt.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "RPG Nature Tileset Autumn.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "first_attempt.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 930.6666666666665,
+                "y": 497.33333333333326
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/wemys/Downloads",
+    "map.height": 34,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 60,
+    "openFiles": [
+        "first_attempt.tmx",
+        "RPG Nature Tileset Autumn.tsx"
+    ],
+    "project": "td_shooter.tiled-project",
+    "recentFiles": [
+        "RPG Nature Tileset Autumn.tsx",
+        "first_attempt.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
