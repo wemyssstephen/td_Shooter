@@ -1,0 +1,150 @@
+[
+    {
+        "version": "1.0",
+        "image": {
+            "name": "2_north_1680526519347.png",
+            "baseName": "2_north_1680526519347.png",
+            "format": "PNG",
+            "formatDescription": "PNG",
+            "mimeType": "image\/png",
+            "class": "DirectClass",
+            "geometry": {
+                "width": 76,
+                "height": 24,
+                "x": 0,
+                "y": 0
+            },
+            "units": "Undefined",
+            "type": "PaletteAlpha",
+            "baseType": "Undefined",
+            "endianness": "Undefined",
+            "colorspace": "sRGB",
+            "depth": 8,
+            "baseDepth": 8,
+            "channelDepth": {
+                "alpha": 1,
+                "red": 8,
+                "green": 8,
+                "blue": 1
+            },
+            "pixels": 7296,
+            "imageStatistics": {
+                "Overall": {
+                    "min": 0,
+                    "max": 255,
+                    "mean": 164.478,
+                    "median": 191.25,
+                    "standardDeviation": 97.3495,
+                    "kurtosis": -1.54924,
+                    "skewness": -0.429913,
+                    "entropy": 0.807592
+                }
+            },
+            "channelStatistics": {
+                "alpha": {
+                    "min": 0,
+                    "max": 255,
+                    "mean": 124.984,
+                    "median": 0,
+                    "standardDeviation": 127.51,
+                    "kurtosis": -1.99954,
+                    "skewness": 0.0394489,
+                    "entropy": 0.999719
+                },
+                "red": {
+                    "min": 10,
+                    "max": 255,
+                    "mean": 188.036,
+                    "median": 255,
+                    "standardDeviation": 85.3003,
+                    "kurtosis": -1.14832,
+                    "skewness": -0.79338,
+                    "entropy": 0.743549
+                },
+                "green": {
+                    "min": 50,
+                    "max": 255,
+                    "mean": 170.49,
+                    "median": 255,
+                    "standardDeviation": 91.7142,
+                    "kurtosis": -1.77984,
+                    "skewness": -0.278161,
+                    "entropy": 0.743549
+                },
+                "blue": {
+                    "min": 80,
+                    "max": 255,
+                    "mean": 174.402,
+                    "median": 255,
+                    "standardDeviation": 84.8735,
+                    "kurtosis": -1.93419,
+                    "skewness": -0.149946,
+                    "entropy": 0.743549
+                }
+            },
+            "alpha": "#FFFFFF00",
+            "renderingIntent": "Perceptual",
+            "gamma": 0.45455,
+            "chromaticity": {
+                "redPrimary": {
+                    "x": 0.64,
+                    "y": 0.33
+                },
+                "greenPrimary": {
+                    "x": 0.3,
+                    "y": 0.6
+                },
+                "bluePrimary": {
+                    "x": 0.15,
+                    "y": 0.06
+                },
+                "whitePrimary": {
+                    "x": 0.3127,
+                    "y": 0.329
+                }
+            },
+            "matteColor": "#BDBDBD",
+            "backgroundColor": "#FFFFFF",
+            "borderColor": "#DFDFDF",
+            "transparentColor": "#00000000",
+            "interlace": "None",
+            "intensity": "Undefined",
+            "compose": "Over",
+            "pageGeometry": {
+                "width": 76,
+                "height": 24,
+                "x": 0,
+                "y": 0
+            },
+            "dispose": "Undefined",
+            "iterations": 0,
+            "compression": "Zip",
+            "orientation": "Undefined",
+            "properties": {
+                "date:create": "2023-04-03T12:55:19+00:00",
+                "date:modify": "2023-04-03T12:55:19+00:00",
+                "date:timestamp": "2023-04-03T12:55:26+00:00",
+                "png:bKGD": "chunk was found (see Background color, above)",
+                "png:gAMA": "gamma=0.45455 (See Gamma, above)",
+                "png:IHDR.bit-depth-orig": "8",
+                "png:IHDR.bit_depth": "8",
+                "png:IHDR.color-type-orig": "2",
+                "png:IHDR.color_type": "2 (Truecolor)",
+                "png:IHDR.interlace_method": "0 (Not interlaced)",
+                "png:IHDR.width,height": "76, 24",
+                "png:sRGB": "intent=0 (Perceptual Intent)",
+                "png:text": "1 tEXt\/zTXt\/iTXt chunks were found",
+                "png:tIME": "2015-05-04T12:32:20Z",
+                "png:tRNS": "chunk was found",
+                "signature": "4659f38d34c0c70aa40a3423893a326229cfbd326eee5b8b8134f09e9a1c7789",
+                "Software": "GLDPNG ver 3.4"
+            },
+            "tainted": false,
+            "filesize": "571B",
+            "numberPixels": "1824",
+            "pixelsPerSecond": "525718B",
+            "userTime": "0.000u",
+            "elapsedTime": "0:01.003"
+        }
+    }
+]

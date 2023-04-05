@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29feaaad-f2c2-47c6-ada5-977b6166b508" name="Changes" comment="commit test">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/td_Shooter.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiled/td_shooter.tiled-session" beforeDir="false" afterPath="$PROJECT_DIR$/tiled/td_shooter.tiled-session" afterDir="false" />
-    </list>
+    <list default="true" id="29feaaad-f2c2-47c6-ada5-977b6166b508" name="Changes" comment="5th April" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680652647771</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="5th April">
+      <created>1680708682268</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680708682268</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +94,7 @@
     </ignored-roots>
     <MESSAGE value="Initial commit" />
     <MESSAGE value="commit test" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit test" />
+    <MESSAGE value="5th April" />
+    <option name="LAST_COMMIT_MESSAGE" value="5th April" />
   </component>
 </project>
