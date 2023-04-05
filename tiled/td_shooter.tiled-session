@@ -3,35 +3,63 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "first_attempt.tmx",
+    "activeFile": "second_attempt.tmx",
     "expandedProjectPaths": [
+        "."
     ],
     "fileStates": {
+        "C:/Users/wemys/PycharmProjects/td_Shooter/venv/assets/RPG Nature Tileset Autumn.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/wemys/PycharmProjects/td_Shooter/venv/assets/second_attempt.tmx": {
+            "scale": 1.5180208333333332,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.23056337061695,
+                "y": 272.0647773279353
+            }
+        },
         "RPG Nature Tileset Autumn.tsx": {
-            "scaleInDock": 2,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "first_attempt.tmx": {
             "scale": 0.75,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 930.6666666666665,
-                "y": 497.33333333333326
+                "x": 928,
+                "y": 494.66666666666663
+            }
+        },
+        "second_attempt.tmx": {
+            "scale": 1.5180208333333332,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 479.5718108831401,
+                "y": 271.40602484045843
             }
         }
     },
     "last.imagePath": "C:/Users/wemys/Downloads",
-    "map.height": 34,
+    "map.height": 17,
     "map.lastUsedFormat": "tmx",
-    "map.width": 60,
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "map.width": 30,
     "openFiles": [
-        "first_attempt.tmx",
-        "RPG Nature Tileset Autumn.tsx"
+        "RPG Nature Tileset Autumn.tsx",
+        "second_attempt.tmx"
     ],
     "project": "td_shooter.tiled-project",
     "recentFiles": [
         "RPG Nature Tileset Autumn.tsx",
+        "second_attempt.tmx",
+        "C:/Users/wemys/PycharmProjects/td_Shooter/venv/assets/second_attempt.tmx",
         "first_attempt.tmx"
     ],
-    "tileset.lastUsedFormat": "tsx"
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
 }
